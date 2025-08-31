@@ -1,3 +1,9 @@
+### Source
+
+https://github.com/liveboxandy/Gotek-Rotary-Encoder
+
+###  Description
+
 Simple adapter PCB based on the wiring diagram from https://hxc2001.com/docs/gotek-floppy-emulator-hxc-firmware/pages/apple.html
 
 ### BOM
